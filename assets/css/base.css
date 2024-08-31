@@ -16,7 +16,7 @@ html {
 }
 
 .grid {
-  width: 1200;
+  width: 1200px;
   max-width: 100%;
   margin: 0 auto; /* Center */
 }
@@ -29,4 +29,7 @@ html {
 .grid__full-row {
   display: flex;
   flex-wrap: wrap;
+}
+.bold-text {
+  font-weight: 400 !important;
 }
